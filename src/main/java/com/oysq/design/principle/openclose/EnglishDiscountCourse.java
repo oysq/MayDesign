@@ -2,7 +2,6 @@ package com.oysq.design.principle.openclose;
 
 /**
  * 打折的英语课
- * 通过继承扩展父类，实现不修改父类的打折效果
  */
 public class EnglishDiscountCourse extends EnglishCourse {
 
